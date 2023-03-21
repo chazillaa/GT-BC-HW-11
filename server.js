@@ -43,6 +43,8 @@ app.post('/api/notes', (req, res) => {
     })
 })
 
+// Delete notes
+
 app.listen(PORT, function () {
     console.log(`App is now listening at http://localhost:${PORT}`);
 });
