@@ -10,6 +10,7 @@
   6. [Questions](#questions)  
   ## Description:
   This application is a simple note taking app that can be used by anyone! Using express.js and node.js the user can create and save notes that can also be saved to the back end storage to be viewed later.
+  Deployed on Heroku at : https://note-taker-gt-bc-11.herokuapp.com/
   &nbsp;  
   ## Installation:
   To run the the app the user must begin "npm init" and then install the following dependencies before running "npm start". Please install Node, Express, and UUID for the application to run correctly.
